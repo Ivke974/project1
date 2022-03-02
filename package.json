@@ -3,6 +3,7 @@
 	"decription": "Nice project",
 	"keywords":  ["music", "search", "database"],
 	"author": "Ivica",
+	"licence": "MIT",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
